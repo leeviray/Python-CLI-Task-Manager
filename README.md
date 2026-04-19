@@ -6,9 +6,10 @@ fitur:
 1. Penambahkan tugas
 2. Penandaan selesai tugas
 3. Penghapusan tugas
-   Panduan cara menjalankan perintah
-   keyword:
-4. add
-5. list
-6. done
-7. delete
+
+Panduan cara menjalankan perintah
+keyword:
+5. add
+6. list
+7. done
+8. delete
