@@ -9,7 +9,8 @@ fitur:
 
 Panduan cara menjalankan perintah
 keyword:
-5. add
-6. list
-7. done
-8. delete
+
+1. add
+2. list
+3. done
+4. delete
