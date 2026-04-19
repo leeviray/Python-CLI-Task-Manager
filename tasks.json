@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "task": "Belajar struktur data",
+        "done": false
+    },
+    {
+        "id": 2,
+        "task": "mengerjkaan github repository",
+        "done": false
+    }
+]
